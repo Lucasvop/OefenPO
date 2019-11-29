@@ -2,7 +2,7 @@ body{
 	background-color: #f3f3f3;
 	padding:0;
 	margin:0;
-	font-family: monospace;
+  font-family: monospace;
 }
 
 .page {
@@ -54,10 +54,11 @@ body{
 
 h1{
 	background-color: #b68052;
-	margin: 20px;
+	margin: 20px -100px;
+  margin-right: 100px;
 	padding: 10px 20px;
-	padding-right: -500px;
-	color: aliceblue;
+  padding-right: 40px;
+  color: aliceblue;
 }
 
 h2{
